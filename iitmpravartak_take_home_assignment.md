@@ -1,6 +1,6 @@
 # Take-Home Assignment — Full Stack Developer
 
-**What this is:** Some coding fun. Build at your own pace. You are expected to finish everything.
+**What this is:** Some coding fun. Build at your own pace. All five parts below are required — we expect a working version of every one of them.
 
 **How to submit:** Push the code to a public GitHub repository and email us the link by the deadline given to you.
 
@@ -22,11 +22,13 @@ Instead of a recruiter making 50 phone calls, our system runs the first intervie
 4. The system converts the speech to text and scores the answers.
 5. The recruiter sees a score, a short summary, and the full transcript.
 
-**Your assignment is to build a small working version of steps 1 to 5.**
+**Your assignment is to build a small working version of all five steps.** Parts 1 to 5 below map onto these steps one for one, and all five are part of the assignment — not a menu to choose from.
 
 ---
 
 ## What to build
+
+There are five parts. **Complete all five.** They build on each other, so the order below is also the order we suggest you work in.
 
 ### Part 1 — Create a job with skills
 
@@ -139,7 +141,7 @@ So please do not paste in code you have not read. If an assistant gives you some
 
 ## What your repository must contain
 
-1. **README.md** — how to run the project, and what you did **not** finish. An honest gap costs you nothing.
+1. **README.md** — how to run the project, and an honest account of anything that is not working. We are expecting all five parts; where something is incomplete, saying so plainly is far better than leaving us to find it.
 2. **DECISIONS.md** — half a page. Three or four decisions and why. Include one thing you would do differently with more time.
 3. **Real commit history.** Commit as you go. One big commit tells us nothing about how you work, and we will ask about it.
 
@@ -149,18 +151,14 @@ Where to store the audio, how long the link stays valid, what to do with an empt
 
 ## If you run short of time
 
-**A smaller project that works fully is better than a bigger one that is half broken.**
+**Ask for more time — do not quietly drop a part.** All five parts are expected, and the deadline is the flexible piece, not the scope. Tell us before the deadline and we will extend it. We would far rather work with an engineer who speaks up early than one who quietly ships something broken.
 
-Build in this order and stop wherever you reach:
+Two things are genuinely up to you, and neither counts as skipping a part:
 
-1. **Must have** — Parts 1, 2 and 4: job with skills, generated questions, and a score. This is the core of the product.
-2. **Must have** — the candidate link from Part 3, with the token rules.
-3. **Next** — audio and transcription. If browser recording defeats you, let the candidate **type** the answer and say so in your README. The scoring logic is the same either way.
-4. **Last** — the recruiter UI from Part 5. A rough page, or an API with `curl` examples in the README, is fine.
+- **Depth over polish.** A part that works simply beats a part that is half built. The recruiter UI in Part 5 can be a rough page — we are not judging CSS.
+- **Typed answers as a fallback.** If browser audio recording defeats you, let the candidate **type** the answer instead, and say so in your README. The rest of Part 3 and all of Part 4 still apply, and the scoring logic is the same either way.
 
-Whatever you skip, write it down in your README and tell us how you would have done it. **That costs you nothing.** Handing us something half-finished without explaining it is what costs you.
-
-And if the deadline is too tight, say so and ask for more time. We would far rather work with an engineer who speaks up early than one who quietly ships something broken.
+If something still ends up unfinished, write it down in your README and tell us how you would have done it. Handing us a gap you have explained is recoverable; handing us one you have not is what costs you.
 
 ---
 

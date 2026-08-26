@@ -13,7 +13,7 @@ IITM Pravartak Technologies Foundation.
 ## The short version
 
 Build a small working version of a hiring platform that replaces the resume with a
-**skills profile**:
+**skills profile**. There are five parts and **all five are required**:
 
 1. A recruiter creates a job with required skills and ratings.
 2. An AI generates 5 interview questions from those skills.
@@ -24,6 +24,9 @@ Build a small working version of a hiring platform that replaces the resume with
 Backend in Python (FastAPI preferred), AI parts in **LangChain or LangGraph**, frontend in
 React, database of your choice. Full details, the build order, and what we will look at are
 all in the assignment brief.
+
+If the deadline is too tight to finish all five, tell us before it passes and we will extend
+it — that is the piece we can move. Dropping a part is not.
 
 ## How to submit
 
