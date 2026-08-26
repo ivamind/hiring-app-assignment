@@ -40,4 +40,4 @@ is too tight, tell us before it passes and we will extend it.
 
 ---
 
-© 2026 IITM Pravartak Technologies Foundation. Confidential — for the named candidate only.
+© 2026 IITM Pravartak Technologies Foundation.

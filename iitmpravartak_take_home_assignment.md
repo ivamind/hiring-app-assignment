@@ -168,4 +168,4 @@ If anything here is unclear, please email us. Asking a question is not a negativ
 
 ---
 
-© 2026 IITM Pravartak Technologies Foundation. Confidential — for the named candidate only.
+© 2026 IITM Pravartak Technologies Foundation.
